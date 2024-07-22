@@ -106,3 +106,5 @@
 27014	29773	7433327616527814	D:/espProject/Blinky/build/bootloader/.bin_timestamp	1c048bf20f2eb43a
 29774	30609	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	d877fcb4ebdd780
 29774	30609	0	D:/espProject/Blinky/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	d877fcb4ebdd780
+6	109	0	esp-idf/esptool_py/CMakeFiles/bootloader_check_size	d877fcb4ebdd780
+6	109	0	D:/espProject/Blinky/build/bootloader/esp-idf/esptool_py/CMakeFiles/bootloader_check_size	d877fcb4ebdd780

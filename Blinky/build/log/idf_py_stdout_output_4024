@@ -26,8 +26,8 @@ entry 0x4008064c
 [0;32mI (95) esp_image: segment 0: paddr=00010020 vaddr=3f400020 size=09ac0h ( 39616) map[0m
 [0;32mI (117) esp_image: segment 1: paddr=00019ae8 vaddr=3ffb0000 size=02160h (  8544) load[0m
 [0;32mI (121) esp_image: segment 2: paddr=0001bc50 vaddr=40080000 size=043c8h ( 17352) load[0m
-[0;32mI (131) esp_image: segment 3: paddr=00020020 vaddr=400d0020 size=14a9ch ( 84636) map[0m
-[0;32mI (162) esp_image: segment 4: paddr=00034ac4 vaddr=400843c8 size=07cd8h ( 31960) load[0m
+[0;32mI (131) esp_image: segment 3: paddr=00020020 vaddr=400d0020 size=14aa0h ( 84640) map[0m
+[0;32mI (162) esp_image: segment 4: paddr=00034ac8 vaddr=400843c8 size=07cd8h ( 31960) load[0m
 [0;32mI (182) boot: Loaded app from partition at offset 0x10000[0m
 [0;32mI (182) boot: Disabling RNG early entropy source...[0m
 [0;32mI (193) cpu_start: Multicore app[0m
@@ -40,7 +40,7 @@ entry 0x4008064c
 [0;32mI (217) cpu_start: Project name:     .[0m
 [0;32mI (221) cpu_start: App version:      1[0m
 [0;32mI (225) cpu_start: Compile time:     Jul 21 2024 23:25:49[0m
-[0;32mI (232) cpu_start: ELF file SHA256:  5f01e7d5e7aa3970...[0m
+[0;32mI (232) cpu_start: ELF file SHA256:  88841dfad9a03d51...[0m
 [0;32mI (238) cpu_start: ESP-IDF:          HEAD-HASH-NOTFOUND[0m
 [0;32mI (243) cpu_start: Min chip rev:     v0.0[0m
 [0;32mI (248) cpu_start: Max chip rev:     v3.99 [0m
